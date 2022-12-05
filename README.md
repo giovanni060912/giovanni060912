@@ -1,7 +1,7 @@
 ## Olá sou Giovanni Santos programação e tecnologia!
 <div align="center">
   <a href="https://github.com/giovanni060912">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanni060912&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanni060912&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni060912&layout=compact&langs_count=7&theme=black"/>
 </div>
 <div style="display: inline_block"><br>
