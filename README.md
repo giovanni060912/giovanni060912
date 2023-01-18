@@ -27,6 +27,8 @@
 </div>
   
   ##
+  [![trophy](https://github-profile-trophy.vercel.app/?giovanni060912=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  ##
  
 <div>  
   <a href = "mailto:giovannisantos060912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
